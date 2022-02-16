@@ -1,0 +1,204 @@
+/* MV Responsive Start */
+@media (max-width: 992px) {
+.navigation-portrait .nav-brand {
+    margin-left:35px;
+}
+.nav-brand img {
+    max-width:150px;
+    position: relative;
+    top: 2px;
+}
+.nav-brand {
+    padding: 10px 15px;
+	padding-right: 0;
+}
+.nav-header {
+    width: 100%;
+}
+.navigation-portrait .nav-brand {
+    flex: 1;
+}
+.navigation-portrait .nav-menu.nav-menu-social {
+    display: none;
+}
+
+}
+@media only screen and (max-width: 767px) {
+	.breadcrumb-area {
+		padding: 80px 0;
+		position: relative;
+	  }
+	  .about .info-about .blueverse-title{
+		  padding-top:20px;
+	  }
+	  .blueverse_main .company_sub_title h4{
+		  margin-bottom:20px;
+		  margin-right: 0px;
+	  }
+	  .blueverse_ser-title p{
+		  margin-bottom:20px;
+	  }
+	  .about-img-one {
+		
+		background-size: cover;
+		background-position: center;
+		background-repeat: no-repeat;
+	
+	}
+	.services-main{
+		  margin-bottom:30px;
+	}
+	.blueverse_main-ser.pb60{
+		padding-bottom:30px;
+	}
+	.blueverse_footer h3{
+		margin-top:20px;
+	}
+	.ttm-row.about-top-section .pl30{
+		padding-left:0px;
+	}
+	.ttm-row .title-header{
+		margin-top:20px;
+	}
+	.ttm-row .aboutin-title h2.title{
+		font-size:25px;
+    line-height: 28px;
+	}
+	.benefits-service-content img{
+		margin-top:15px;
+	}
+	#careers .card-body{
+		padding:10px;
+	}
+	.c_details_item{
+		margin-bottom:20px;
+	}
+	.c_details_item .media .media-left{
+		padding-right:20px;
+	}
+	.c_details_item .media{
+		display:initial;
+	}
+	.c_details_item .media .media-body p{
+		max-width:none;
+		padding-top:20px;
+	}
+	.media-body a{
+		padding-top:20px;	
+	}
+}
+@media (max-width: 992px) {	
+	.nav-menu>li .nav-dropdown {
+		border: none;
+		padding:0px;
+		background:transparent;
+		box-shadow:none;
+		-webkit-box-shadow:none;
+		border-radius: 0rem;
+	}
+	nav .nav-header .toggle-bar {
+		font-size: 18px;
+		position: absolute;
+		top:22px;
+		left: 15px;
+	}
+	nav .menu li a {
+		padding: 10px 10px;
+		border-bottom: solid 1px #efefef;
+	}
+	nav .menu li:last-child a {
+		border-bottom: none;
+	}
+	.about .info-about .blueverse-title{
+		  padding-top:20px;
+	  }
+	  .blueverse_main .company_sub_title h4{
+		  margin-bottom:20px;
+		  margin-right: 0px;
+	  }
+	  .blueverse_ser-title p{
+		  margin-bottom:20px;
+	  }
+	  .about-img-one {
+		
+		background-size: cover;
+		background-position: center;
+		background-repeat: no-repeat;
+	
+	}
+	.services-main{
+		  margin-bottom:30px;
+	}
+	.blueverse_main-ser.pb60{
+		padding-bottom:30px;
+	}
+	.blueverse_footer h3{
+		margin-top:20px;
+	}
+	.ttm-row.about-top-section .pl30{
+		padding-left:0px;
+	}
+	.ttm-row .title-header{
+		margin-top:20px;
+	}
+	.ttm-row .aboutin-title h2.title{
+		font-size:25px;
+    line-height: 28px;
+	}
+	.benefits-service-content img{
+		margin-top:15px;
+	}
+	#careers .card-body{
+		padding:10px;
+	}
+	.c_details_item{
+		margin-bottom:20px;
+	}
+	.c_details_item .media .media-left{
+		padding-right:20px;
+	}
+	.c_details_item .media{
+		display:initial;
+	}
+	.c_details_item .media .media-body p{
+		max-width:none;
+		padding-top:20px;
+	}
+	.media-body a{
+		padding-top:20px;	
+	}
+}
+@media (max-width: 767px) {
+	.dropdown-submenu > .dropdown-menu.show {
+		display: block;
+	}
+	.blueverse_copyright_menu{
+		margin-top:20px;	
+	}
+	.blueverse_copyright_menu.text-end {
+    text-align: left;
+}
+
+	
+}
+@media (max-width: 600px) {
+	
+}
+@media (max-width:360px) {
+	.navigation-portrait .nav-brand {
+		margin-left: 20px;
+	}
+	
+	
+}
+@media (max-width: 992px) {	
+	
+}
+@media (min-width: 1200px) {
+	
+}
+@media (min-width: 993px) {
+	
+
+}
+/* MV Responsive End */
