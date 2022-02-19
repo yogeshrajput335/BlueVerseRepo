@@ -1348,7 +1348,7 @@ nav a {
     bottom: 20px;
 }
 .blueverse_footer {
-    background: rgb(33 150 243);
+    background: #d04e3d;
 	padding: 50px 0;
 }
 .blueverse_footer .col-md-6{
@@ -1657,14 +1657,14 @@ ul.footerNav {
     color: #fff;
 }
 .blueverse_main-ser {
-	 background: #302c38;
+	 background: #0b0c26;
 	 position: relative;
 	 z-index: 2;
 }
  .blueverse_main-ser:before {
 	 content: "";
 	 height: 485px;
-	 background: #302c38;
+	 background: #0b0c26;
 	 position: absolute;
 	 left: 0px;
 	 top: 0px;
@@ -1880,7 +1880,7 @@ ul.footerNav {
 }
 .breadcrumb-area h1:before {
     width: 43px;
-    background-color: #2196f3;
+    background-color: #d04e3d;
     bottom: 10px;
     height: 4px;
     left: 50%;
@@ -1951,9 +1951,9 @@ ul.footerNav {
 .c_details_item .media .media-left i {
 	height: 60px;
 	width: 60px;
-	border: 2px solid #03a9f5;
+	border: 2px solid #d04e3d;
 	border-radius: 50%;
-	color: #03a9f5;
+	color: #d04e3d;
 	text-align: center;
 	line-height: 60px;
 	font-size: 30px;
@@ -2008,7 +2008,7 @@ ul.footerNav {
 	padding: 0;
 }
 .contact-us .btn {
-	background: #03a9f5;
+	background: #d04e3d;
 	cursor: pointer;
 	transition: all .5s ease;
 }
@@ -2077,7 +2077,7 @@ form label.error {
 .contact-us .form-control {
     padding: 0.7rem;
 	font-size:14px;
-    border: 1px solid #03a9f5;
+    border: 1px solid gray;
 }
 /* .contact-us form button { */
     /* padding: 15px 42px; */
@@ -2132,7 +2132,7 @@ form label.error {
     letter-spacing: 1px;
     margin-bottom: 10px;
     margin-top: 5px;
-	color: #f71735;
+	color: #d04e3d;
 }
 .ttm-row .aboutin-title h2.title {
     font-weight: 700;
@@ -2185,7 +2185,7 @@ form label.error {
 }
 .ttm-row .section-title .title-header:before {
     width: 43px;
-	background-color: #f71735;
+	background-color: #d04e3d;
     bottom: -10px;
     height: 4px;
     left: 50%;
@@ -2237,7 +2237,7 @@ form label.error {
     border-right: 1px solid rgba(255,255,255,.15);
 }
 .ttm-icon_element-color-skincolor{
-	    color: #f71735;
+	    color: #d04e3d;
 }
 #single-service-area  .benefits-service-content:first-child {
 	border-top: none;
@@ -2371,7 +2371,7 @@ form label.error {
 	list-style-type: circle;
 }
 .card .card-header{
-    border-left: 3px solid #ff9704;
+    border-left: 10px solid #d04e3d;
 }
 
 /* MV MainStyle End */
