@@ -630,7 +630,7 @@ nav a:hover {
 	bottom:0px;
 	width:0%;
 	display:inline-block;
-	border-bottom:3px solid #304da0;
+	border-bottom:3px solid #d04e3d;
 	transition:all 500ms ease;
 	-moz-transition:all 500ms ease;
 	-webkit-transition:all 500ms ease;
@@ -651,7 +651,7 @@ nav a:hover {
 .nav-menu>.active>a,
 .nav-menu>.focus>a,
 .nav-menu>li:hover>a {
-    color: #304da0 !important;
+    color: #d04e3d !important;
 }
 
 .nav-menu>li>a>[class*=ion-], .nav-menu>li>a>i {
@@ -733,7 +733,7 @@ nav a:hover {
 .nav-menu>.active>a .submenu-indicator-chevron,
 .nav-menu>.focus>a .submenu-indicator-chevron,
 .nav-menu>li:hover>a .submenu-indicator-chevron {
-    border-color: transparent #304da0 #304da0 transparent;
+    border-color: transparent #d04e3d #d04e3d transparent;
 }
 
 .navigation-portrait .submenu-indicator.submenu-indicator-up {
@@ -1005,7 +1005,7 @@ nav a:hover {
 }
 .nav-dropdown>li>a:hover, .nav-dropdown>li>a:focus {
     padding-left: 20px;
-	color:#304da0;
+	color:#d04e3d;
 }
 .social-icon a i,
 .social-icons a i {
@@ -1017,7 +1017,7 @@ nav a:hover {
 
 .nav-dropdown>.focus>a,
 .nav-dropdown>li:hover>a {
-    color:#304da0;
+    color:#d04e3d;
 }
 
 .nav-dropdown.nav-dropdown-left {
@@ -1082,7 +1082,7 @@ nav a {
 
 .nav-dropdown>.focus>a .submenu-indicator-chevron,
 .nav-dropdown>li:hover>a .submenu-indicator-chevron {
-    border-color: transparent #304da0 #304da0 transparent;
+    border-color: transparent #d04e3d #d04e3d transparent;
 }
 
 .navigation-landscape .nav-dropdown-left .submenu-indicator {
@@ -1212,7 +1212,7 @@ nav a {
     top:0px;
 }
 .top-header {
-    background:#304da0;
+    background:#d04e3d;
     padding:12px 0;
     color: #ffffff;
 }
@@ -1293,7 +1293,7 @@ nav a {
     width: 8%;
 }
 .banner-next .fa, .banner-prev  .fa{
-	color: #304da0;
+	color: #d04e3d;
 }
 .banner-next, .banner-prev {
     /* top: 50%; */
@@ -1342,7 +1342,7 @@ nav a {
     background: #fff !important;
     width: 5px !important;
     height: 5px !important;
-    border: 8px solid #304da0 !important;
+    border: 8px solid #d04e3d !important;
 }
 .carousel-indicators {
     bottom: 20px;
@@ -1561,7 +1561,7 @@ ul.footerNav {
     bottom: 0px;
     width: 60px;
     height: 3px;
-    background-color: #304da0;
+    background-color: #d04e3d;
     -webkit-transform: skewX(-45deg);
     -ms-transform: skewX(-45deg);
     -o-transform: skewX(-45deg);
@@ -1657,7 +1657,7 @@ ul.footerNav {
     color: #fff;
 }
 .blueverse_main-ser {
-	 background: #fff;
+	 background: #302c38;
 	 position: relative;
 	 z-index: 2;
 }
@@ -1823,7 +1823,7 @@ ul.footerNav {
 	 border: 1px solid #dedede;
 }
  .more_btn {
-    color: #304da0;
+    color: #d04e3d;
     text-transform: capitalize;
     font-size: 14px;
     font-weight: 600;
@@ -1831,7 +1831,7 @@ ul.footerNav {
 }
  .more_btn:hover {
 	 text-decoration: underline;
-	 color: #304da0;
+	 color: #d04e3d;
 }
 .shadow.dark::after {
     background: #000000 none repeat scroll 0 0;
@@ -2343,7 +2343,7 @@ form label.error {
     bottom: 0px;
     width: 60px;
     height: 3px;
-    background-color: #304da0;
+    background-color: #d04e3d;
     -webkit-transform: skewX(-45deg);
     -ms-transform: skewX(-45deg);
     -o-transform: skewX(-45deg);
