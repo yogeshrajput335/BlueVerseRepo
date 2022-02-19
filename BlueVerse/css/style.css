@@ -570,7 +570,7 @@ nav a:hover {
 }
 
 .nav-menu {
-    margin-top: 15px;
+    margin-top: 53px;
     padding: 0;
     line-height: normal;
 }
@@ -611,11 +611,11 @@ nav a:hover {
 
 .nav-menu>li>a {
 	position:relative;
-    padding: 20px 25px;
+    padding: 8px 12px;
     display: inline-block;
     font-weight:500;
     transition: color .3s, background .3s;
-    font-size:14px;
+    font-size:20px;
 	font-weight:bold;
 	transition:all 500ms ease;
 	-moz-transition:all 500ms ease;
