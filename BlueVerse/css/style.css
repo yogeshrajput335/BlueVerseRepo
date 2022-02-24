@@ -2374,4 +2374,9 @@ form label.error {
     border-left: 10px solid #d04e3d;
 }
 
+@media only screen and (max-device-width: 480px){
+  .headerText{
+    font-size: 17px;
+  }
+}
 /* MV MainStyle End */
